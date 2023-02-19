@@ -11,5 +11,6 @@ public class Test {
         System.out.println("master分支01");
         System.out.println("master分支02");
         System.out.println("hot-fix分支01");
+        System.out.println("push的master分支03");
     }
 }
