@@ -12,5 +12,6 @@ public class Test {
         System.out.println("master分支02");
         System.out.println("hot-fix分支01");
         System.out.println("push的master分支03");
+        System.out.println("GutHub上面手动更改的代码");
     }
 }
