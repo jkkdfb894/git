@@ -10,5 +10,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("master分支01");
         System.out.println("master分支02");
+        System.out.println("hot-fix分支01");
     }
 }
